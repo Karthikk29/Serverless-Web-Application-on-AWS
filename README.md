@@ -1,5 +1,4 @@
-# Create a README.md file with the given content (excluding the demo section)
-readme_content = """
+
 # 🚀 Serverless Student Data Manager (AWS Project)
 
 A simple serverless web application that allows users to add and view student data using **DynamoDB**, **AWS Lambda**, **API Gateway**, and a **static S3-hosted frontend**.
