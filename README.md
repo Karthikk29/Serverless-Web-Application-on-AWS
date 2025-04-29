@@ -26,7 +26,7 @@ A simple serverless web application that allows users to add and view student da
 
 ## 📌 Architecture Diagram
 
-![Architecture Diagram](./assets/architecture-diagram.png)
+![Architecture Diagram](flowdiagram.png)
 
 ---
 
